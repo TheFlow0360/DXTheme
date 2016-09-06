@@ -1,0 +1,13 @@
+<ResourceDictionary mc:Ignorable="cs" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:cs="colorscheme_ignorable_uri" xmlns:dxdst="http://schemas.devexpress.com/winfx/2008/xaml/core/themekeys" xmlns:dxcore_unique_xmlns="http://schemas.devexpress.com/winfx/2008/xaml/core">
+    <ResourceDictionary.MergedDictionaries>
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Charts/Standard/Axis.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Charts/Standard/AxisScrollBar.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Charts/Standard/Legend.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Charts/Standard/Diagram2D.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Charts/Standard/Diagram3D.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Charts/Standard/SeriesLabel.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Charts/Standard/ChartControl.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Charts/Standard/Titles.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Charts/Standard/ToolTip.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>

@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevExpress.Xpf.Themes.SL_CRM_Base.ThemeEditor", "DevExpress.Xpf.Themes.SL_CRM_Base.ThemeEditor.csproj", "{15F14708-2954-45CF-99D2-3B4E667FF18D}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+		DebugTest|Any CPU = DebugTest|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {15F14708-2954-45CF-99D2-3B4E667FF18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {15F14708-2954-45CF-99D2-3B4E667FF18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F14708-2954-45CF-99D2-3B4E667FF18D}.DebugTest|Any CPU.ActiveCfg = DebugTest|Any CPU
+		{15F14708-2954-45CF-99D2-3B4E667FF18D}.DebugTest|Any CPU.Build.0 = DebugTest|Any CPU
+        {15F14708-2954-45CF-99D2-3B4E667FF18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {15F14708-2954-45CF-99D2-3B4E667FF18D}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal

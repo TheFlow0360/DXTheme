@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevExpress.Xpf.Themes.Standard", "DevExpress.Xpf.Themes.Standard.csproj", "{FFADADC5-19FE-4A6F-B9D4-79765203ED7F}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+		DebugTest|Any CPU = DebugTest|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {FFADADC5-19FE-4A6F-B9D4-79765203ED7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {FFADADC5-19FE-4A6F-B9D4-79765203ED7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFADADC5-19FE-4A6F-B9D4-79765203ED7F}.DebugTest|Any CPU.ActiveCfg = DebugTest|Any CPU
+		{FFADADC5-19FE-4A6F-B9D4-79765203ED7F}.DebugTest|Any CPU.Build.0 = DebugTest|Any CPU
+        {FFADADC5-19FE-4A6F-B9D4-79765203ED7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {FFADADC5-19FE-4A6F-B9D4-79765203ED7F}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal

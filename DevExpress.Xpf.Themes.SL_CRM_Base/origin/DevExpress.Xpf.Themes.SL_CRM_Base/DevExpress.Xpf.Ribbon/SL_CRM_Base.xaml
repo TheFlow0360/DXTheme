@@ -1,0 +1,73 @@
+<ResourceDictionary mc:Ignorable="cs" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:sys="clr-namespace:System;assembly=mscorlib" xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core" xmlns:dxc="http://schemas.devexpress.com/winfx/2008/xaml/core" xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars" xmlns:dxbt="http://schemas.devexpress.com/winfx/2008/xaml/bars/themekeys" xmlns:dxt="http://schemas.devexpress.com/winfx/2008/xaml/core/themekeys" xmlns:dxr="http://schemas.devexpress.com/winfx/2008/xaml/ribbon" xmlns:dxrt="http://schemas.devexpress.com/winfx/2008/xaml/ribbon/themekeys" xmlns:dxcn="http://schemas.devexpress.com/winfx/2008/xaml/core/internal" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:cs="colorscheme_ignorable_uri" xmlns:dxdst="http://schemas.devexpress.com/winfx/2008/xaml/core/themekeys" xmlns:dxmvvm="http://schemas.devexpress.com/winfx/2008/xaml/mvvm">
+    <!--BEGIN WPF-->
+    <ResourceDictionary.MergedDictionaries>
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/BarItems.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/DropDownGallery.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/InRibbonGallery.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/QuickAccessToolbar.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/Ribbon.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/RibbonHeader.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/RibbonPage.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/RibbonPageCategory.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/RibbonPageGroup.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/RibbonStatusBar.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/BackstageButtonItem.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/BackstageTabItem.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/BackstageSeparatorItem.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/BackstageView.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/ApplicationMenu.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/ApplicationButton.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/RibbonWindow.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/RibbonAeroWindow.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/DXTreeView.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.SL_CRM_Base.v16.1;component/DevExpress.Xpf.Ribbon/SL_CRM_Base/DXTreeViewItem.xaml" />
+        <!--
+          skipped
+          Source ={dxc:RibbonResource Themes/SL_CRM_Base/RibbonWindow.xaml, DenyXBAP=True}
+          ignoreSource = RibbonWindow.xaml, DenyXBAP=True-->
+    </ResourceDictionary.MergedDictionaries>
+    <!--END WPF-->
+    <SolidColorBrush x:Key="ThemeColorsThemeKey_WhiteForegroundColor" Color="#E3000000" cs:Name="SolidColorBrush_0001" />
+    <SolidColorBrush x:Key="ThemeColorsThemeKey_BlackForegroundColor" Color="#E3000000" cs:Name="SolidColorBrush_0002" />
+    <!--#include ..\DevExpress.Xpf.Core\DevExpress.Xpf.Core\Bars\Themes\SL_CRM_Base\SubMenuBarControl.xaml-->
+    <!--#include \SL_CRM_Base\BarItems.xaml-->
+    <!--#include \SL_CRM_Base\DropDownGallery.xaml-->
+    <!--#include \SL_CRM_Base\InRibbonGallery.xaml-->
+    <!--#include \SL_CRM_Base\QuickAccessToolbar.xaml-->
+    <!--#include \SL_CRM_Base\Ribbon.xaml-->
+    <!--#include \SL_CRM_Base\RibbonHeader.xaml-->
+    <!--#include \SL_CRM_Base\RibbonPage.xaml-->
+    <!--#include \SL_CRM_Base\RibbonPageCategory.xaml-->
+    <!--#include \SL_CRM_Base\RibbonPageGroup.xaml-->
+    <!--#include \SL_CRM_Base\RibbonStatusBar.xaml-->
+    <!--#include \SL_CRM_Base\BackstageButtonItem.xaml-->
+    <!--#include \SL_CRM_Base\BackstageTabItem.xaml-->
+    <!--#include \SL_CRM_Base\BackstageSeparatorItem.xaml-->
+    <!--#include \SL_CRM_Base\BackstageView.xaml-->
+    <!--#include \SL_CRM_Base\ApplicationMenu.xaml-->
+    <!--#include \SL_CRM_Base\ApplicationButton.xaml-->
+    <!--#include \SL_CRM_Base\DXTreeView.xaml-->
+    <!--#include \SL_CRM_Base\DXTreeViewItem.xaml-->
+    <!--#include ..\DevExpress.Xpf.Core\DevExpress.Xpf.Core\Bars\Themes\SL_CRM_Base\BarControl.xaml-->
+    <!--#include ..\DevExpress.Xpf.Core\DevExpress.Xpf.Core\Bars\Themes\SL_CRM_Base\SubMenuBarControl.xaml-->
+    <!--#include ..\DevExpress.Xpf.Core\DevExpress.Xpf.Core\Bars\Themes\Generic\SubMenuBarControl.xaml-->
+    <!--#include \Generic\BarItems.xaml-->
+    <!--#include \Generic\DropDownGallery.xaml-->
+    <!--#include \Generic\InRibbonGallery.xaml-->
+    <!--#include \Generic\QuickAccessToolbar.xaml-->
+    <!--#include \Generic\Ribbon.xaml-->
+    <!--#include \Generic\RibbonHeader.xaml-->
+    <!--#include \Generic\RibbonPage.xaml-->
+    <!--#include \Generic\RibbonPageCategory.xaml-->
+    <!--#include \Generic\RibbonPageGroup.xaml-->
+    <!--#include \Generic\RibbonStatusBar.xaml-->
+    <!--#include \Generic\BackstageButtonItem.xaml-->
+    <!--#include \Generic\BackstageTabItem.xaml-->
+    <!--#include \Generic\BackstageSeparatorItem.xaml-->
+    <!--#include \Generic\BackstageView.xaml-->
+    <!--#include \Generic\ApplicationMenu.xaml-->
+    <!--#include \Generic\ApplicationButton.xaml-->
+    <!--#include \Generic\DXTreeView.xaml-->
+    <!--#include \Generic\DXTreeViewItem.xaml-->
+    <!--#include \Generic\IndependentPart.xaml-->
+</ResourceDictionary>

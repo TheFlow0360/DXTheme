@@ -1,0 +1,48 @@
+<ResourceDictionary mc:Ignorable="cs" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:cs="colorscheme_ignorable_uri" xmlns:dxdst="http://schemas.devexpress.com/winfx/2008/xaml/core/themekeys" xmlns:dxcore_unique_xmlns="http://schemas.devexpress.com/winfx/2008/xaml/core">
+    <ResourceDictionary.MergedDictionaries>
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Themes/StandardControlStyles.xaml" />
+        <!--
+          skipped
+          Source ={dx:UtilsResource Themes/Standard/Popup.xaml}
+          ignoreSource = Popup.xaml-->
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/ButtonEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/SpinEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/SparklineEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/CheckEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/ComboBoxEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/MemoEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Generic/ColorChooser.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/ColorChooser.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/ErrorPresenter.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/BrushEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/PopupBaseEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/PopupListBox.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/TextEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/InplaceBaseEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/DateEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/ListBoxEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/FilterControl.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/FPanelCtrlBase.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/ExprEdCtrl.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/TrackBarEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/ProgressBarEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/RatingEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/PasswordBoxEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/ColorEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/CalcEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/ImageEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/DateNavigator.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/DataPager.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/RangeControl.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/DateTimePicker.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/ColorPicker.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Generic/FontEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/GradientMultiSlider.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/Flyout.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Generic/BarItemTemplates.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Generic/FontComboBoxEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Generic/FontSizeComboBoxEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/AutoCompleteBox.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Editors/Themes/Standard/BarCodeEdit.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>

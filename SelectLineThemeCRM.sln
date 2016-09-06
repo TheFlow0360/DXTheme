@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevExpress.Xpf.Themes.SL_CRM_Base", "DevExpress.Xpf.Themes.SL_CRM_Base\DevExpress.Xpf.Themes.SL_CRM_Base.csproj", "{7412A134-6BA5-44B8-B912-6D3CC1B80C3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevExpress.Xpf.Themes.Standard", "DevExpress.Xpf.Themes.Standard\DevExpress.Xpf.Themes.Standard.csproj", "{D3075283-36B7-4EE9-BADD-413E211DA566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevExpress.Xpf.Themes.SLResourceKeys", "DevExpress.Xpf.Themes.SLResourceKeys\DevExpress.Xpf.Themes.SLResourceKeys.csproj", "{D8684E84-EE28-408D-B42F-A4A7F1D72F8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevExpress.Xpf.Themes.SL_CRM_Base.ThemeEditor", "DevExpress.Xpf.Themes.SL_CRM_Base\DevExpress.Xpf.Themes.SL_CRM_Base.ThemeEditor.csproj", "{C1DD4420-37EC-465F-864C-284C6C394B81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevExpress.Xpf.Themes.Standard.ThemeEditor", "DevExpress.Xpf.Themes.Standard\DevExpress.Xpf.Themes.Standard.ThemeEditor.csproj", "{E6C996B7-E6AF-4FC3-8FF5-F832A2C9E0DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7412A134-6BA5-44B8-B912-6D3CC1B80C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7412A134-6BA5-44B8-B912-6D3CC1B80C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7412A134-6BA5-44B8-B912-6D3CC1B80C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7412A134-6BA5-44B8-B912-6D3CC1B80C3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3075283-36B7-4EE9-BADD-413E211DA566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3075283-36B7-4EE9-BADD-413E211DA566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3075283-36B7-4EE9-BADD-413E211DA566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3075283-36B7-4EE9-BADD-413E211DA566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8684E84-EE28-408D-B42F-A4A7F1D72F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8684E84-EE28-408D-B42F-A4A7F1D72F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8684E84-EE28-408D-B42F-A4A7F1D72F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8684E84-EE28-408D-B42F-A4A7F1D72F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1DD4420-37EC-465F-864C-284C6C394B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1DD4420-37EC-465F-864C-284C6C394B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1DD4420-37EC-465F-864C-284C6C394B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1DD4420-37EC-465F-864C-284C6C394B81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6C996B7-E6AF-4FC3-8FF5-F832A2C9E0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C996B7-E6AF-4FC3-8FF5-F832A2C9E0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C996B7-E6AF-4FC3-8FF5-F832A2C9E0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C996B7-E6AF-4FC3-8FF5-F832A2C9E0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

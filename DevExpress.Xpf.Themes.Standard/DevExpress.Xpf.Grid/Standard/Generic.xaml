@@ -1,0 +1,21 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:dxdst="http://schemas.devexpress.com/winfx/2008/xaml/core/themekeys">
+    <ResourceDictionary.MergedDictionaries>
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Grid/Standard/WaitIndicators.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Grid/Standard/ScrollBars.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Grid/Standard/ExpandButtons.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Grid/Standard/ColumnHeaderDragIndicator.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Grid/Standard/GridControl.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Grid/Standard/CardTemplates.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Grid/Standard/CardView.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Grid/Standard/GridView.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Grid/Standard/Rows.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Grid/Standard/LightweightStyles.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Grid/Standard/GridCard.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Grid/Standard/ColumnHeader.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Grid/Standard/TotalSummary.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Grid/Standard/RowIndicator.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Grid/Standard/TreeListIndentItems.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Grid/Standard/LookUpEdit.xaml" />
+        <dxdst:ResourceDictionaryEx Source="/DevExpress.Xpf.Themes.Standard.v16.1;component/DevExpress.Xpf.Grid/Standard/GridControlElements.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>
